@@ -1,0 +1,217 @@
+Starting Database Mgr...	
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+dropping STORE database (if it exists)...	
+SQL1013N  The database alias name or database name "STORE   " could not be 
+found.  SQLSTATE=42705
+create new STORE database...	
+DB20000I  The CREATE DATABASE command completed successfully.
+connect to STORE...	
+
+   Database Connection Information
+
+ Database server        = DB2/NT 8.2.0
+ SQL authorization ID   = WASADMIN
+ Local database alias   = STORE
+
+creating database schema for STORE...	
+done creating STORE database...	
+DB20000I  The SQL DISCONNECT command completed successfully.
+Done. Verifying database creation....	
+
+   Database Connection Information
+
+ Database server        = DB2/NT 8.2.0
+ SQL authorization ID   = WASADMIN
+ Local database alias   = STORE
+
+
+Table/View                      Schema          Type  Creation time
+------------------------------- --------------- ----- --------------------------
+CUSTOMER                        WASADMIN        T     2008-07-24-15.09.57.887001
+LINEITEM                        WASADMIN        T     2008-07-24-15.09.57.981001
+PRODUCT                         WASADMIN        T     2008-07-24-15.09.58.184001
+PURCHASE                        WASADMIN        T     2008-07-24-15.09.58.137001
+
+  4 record(s) selected.
+
+DB20000I  The SQL DISCONNECT command completed successfully.
+You should have seen the following tables:	
+CUSTOMER, LINEITEM, PRODUCT, PURCHASE	
+Starting Database Mgr...	
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+dropping STORE database (if it exists)...	
+SQL1013N  The database alias name or database name "STORE   " could not be 
+found.  SQLSTATE=42705
+create new STORE database...	
+DB20000I  The CREATE DATABASE command completed successfully.
+connect to STORE...	
+
+   Database Connection Information
+
+ Database server        = DB2/NT 8.2.0
+ SQL authorization ID   = WASADMIN
+ Local database alias   = STORE
+
+creating database schema for STORE...	
+done creating STORE database...	
+DB20000I  The SQL DISCONNECT command completed successfully.
+Done. Verifying database creation....	
+
+   Database Connection Information
+
+ Database server        = DB2/NT 8.2.0
+ SQL authorization ID   = WASADMIN
+ Local database alias   = STORE
+
+
+Table/View                      Schema          Type  Creation time
+------------------------------- --------------- ----- --------------------------
+CUSTOMER                        WASADMIN        T     2009-07-21-15.42.47.609001
+LINEITEM                        WASADMIN        T     2009-07-21-15.42.47.812001
+PRODUCT                         WASADMIN        T     2009-07-21-15.42.48.093001
+PURCHASE                        WASADMIN        T     2009-07-21-15.42.47.953001
+
+  4 record(s) selected.
+
+DB20000I  The SQL DISCONNECT command completed successfully.
+You should have seen the following tables:	
+CUSTOMER, LINEITEM, PRODUCT, PURCHASE	
+Starting Database Mgr...	
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+dropping STORE database (if it exists)...	
+SQL1013N  The database alias name or database name "STORE   " could not be 
+found.  SQLSTATE=42705
+create new STORE database...	
+DB20000I  The CREATE DATABASE command completed successfully.
+connect to STORE...	
+SQL30082N  Attempt to establish connection failed with security reason "24" 
+("USERNAME AND/OR PASSWORD INVALID").  SQLSTATE=08001
+creating database schema for STORE...	
+done creating STORE database...	
+SQL0843N  The server name does not specify an existing connection.  
+SQLSTATE=08003
+Done. Verifying database creation....	
+SQL30082N  Attempt to establish connection failed with security reason "24" 
+("USERNAME AND/OR PASSWORD INVALID").  SQLSTATE=08001
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+SQL0843N  The server name does not specify an existing connection.  
+SQLSTATE=08003
+You should have seen the following tables:	
+CUSTOMER, LINEITEM, PRODUCT, PURCHASE	
+Starting Database Mgr...	
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+dropping STORE database (if it exists)...	
+SQL1013N  The database alias name or database name "STORE   " could not be 
+found.  SQLSTATE=42705
+create new STORE database...	
+DB20000I  The CREATE DATABASE command completed successfully.
+connect to STORE...	
+
+   Database Connection Information
+
+ Database server        = DB2/NT 8.2.0
+ SQL authorization ID   = WASADMIN
+ Local database alias   = STORE
+
+creating database schema for STORE...	
+done creating STORE database...	
+DB20000I  The SQL DISCONNECT command completed successfully.
+Done. Verifying database creation....	
+
+   Database Connection Information
+
+ Database server        = DB2/NT 8.2.0
+ SQL authorization ID   = WASADMIN
+ Local database alias   = STORE
+
+
+Table/View                      Schema          Type  Creation time
+------------------------------- --------------- ----- --------------------------
+CUSTOMER                        WASADMIN        T     2009-09-02-16.29.42.640001
+LINEITEM                        WASADMIN        T     2009-09-02-16.29.43.343001
+PRODUCT                         WASADMIN        T     2009-09-02-16.29.45.000001
+PURCHASE                        WASADMIN        T     2009-09-02-16.29.44.000001
+
+  4 record(s) selected.
+
+DB20000I  The SQL DISCONNECT command completed successfully.
+You should have seen the following tables:	
+CUSTOMER, LINEITEM, PRODUCT, PURCHASE	
+Starting Database Mgr...	
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+dropping STORE database (if it exists)...	
+SQL1031N  The database directory cannot be found on the indicated file system. 
+SQLSTATE=58031
+create new STORE database...	
+DB20000I  The CREATE DATABASE command completed successfully.
+connect to STORE...	
+
+   Database Connection Information
+
+ Database server        = DB2/NT 8.2.0
+ SQL authorization ID   = WASADMIN
+ Local database alias   = STORE
+
+creating database schema for STORE...	
+done creating STORE database...	
+DB20000I  The SQL DISCONNECT command completed successfully.
+Done. Verifying database creation....	
+
+   Database Connection Information
+
+ Database server        = DB2/NT 8.2.0
+ SQL authorization ID   = WASADMIN
+ Local database alias   = STORE
+
+
+Table/View                      Schema          Type  Creation time
+------------------------------- --------------- ----- --------------------------
+CUSTOMER                        WASADMIN        T     2009-09-03-00.51.13.362001
+LINEITEM                        WASADMIN        T     2009-09-03-00.51.14.128001
+PRODUCT                         WASADMIN        T     2009-09-03-00.51.15.393001
+PURCHASE                        WASADMIN        T     2009-09-03-00.51.14.847001
+
+  4 record(s) selected.
+
+DB20000I  The SQL DISCONNECT command completed successfully.
+You should have seen the following tables:	
+CUSTOMER, LINEITEM, PRODUCT, PURCHASE	
+Starting Database Mgr...	
+SQL1024N  A database connection does not exist.  SQLSTATE=08003
+dropping STORE database (if it exists)...	
+SQL1013N  The database alias name or database name "STORE   " could not be 
+found.  SQLSTATE=42705
+create new STORE database...	
+DB20000I  The CREATE DATABASE command completed successfully.
+connect to STORE...	
+
+   Database Connection Information
+
+ Database server        = DB2/NT 8.2.0
+ SQL authorization ID   = WASADMIN
+ Local database alias   = STORE
+
+creating database schema for STORE...	
+done creating STORE database...	
+DB20000I  The SQL DISCONNECT command completed successfully.
+Done. Verifying database creation....	
+
+   Database Connection Information
+
+ Database server        = DB2/NT 8.2.0
+ SQL authorization ID   = WASADMIN
+ Local database alias   = STORE
+
+
+Table/View                      Schema          Type  Creation time
+------------------------------- --------------- ----- --------------------------
+CUSTOMER                        WASADMIN        T     2009-10-20-13.38.02.296001
+LINEITEM                        WASADMIN        T     2009-10-20-13.38.08.937000
+PRODUCT                         WASADMIN        T     2009-10-20-13.38.14.328000
+PURCHASE                        WASADMIN        T     2009-10-20-13.38.11.453001
+
+  4 record(s) selected.
+
+DB20000I  The SQL DISCONNECT command completed successfully.
+You should have seen the following tables:	
+CUSTOMER, LINEITEM, PRODUCT, PURCHASE	
